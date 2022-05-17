@@ -1,0 +1,12 @@
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\bin\Debug\net6.0\TodoList.Shared.deps.json
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\bin\Debug\net6.0\TodoList.Shared.dll
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\bin\Debug\net6.0\TodoList.Shared.pdb
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.csproj.AssemblyReference.cache
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.AssemblyInfoInputs.cache
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.AssemblyInfo.cs
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.csproj.CoreCompileInputs.cache
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.dll
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\refint\TodoList.Shared.dll
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\TodoList.Shared.pdb
+D:\WS\Avalonia\MVVM\Test\TodoList\TodoList.Shared\obj\Debug\net6.0\ref\TodoList.Shared.dll

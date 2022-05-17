@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="TodoList.App/App.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/ViewModels/AddItemView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/AddItemView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/ChangeItemsView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/ChangeTodo.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/DeleteItemView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/DeleteItemsView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/EditItemView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/MainWindow.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/TodoListView.axaml" value="TodoList.App/TodoList.App.csproj" />
+        <entry key="TodoList.App/Views/TodoUserControl.axaml" value="TodoList.App/TodoList.App.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

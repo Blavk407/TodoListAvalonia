@@ -1,0 +1,24 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:vm="using:TodoList.App.ViewModels"
+             xmlns:v="using:TodoList.App.Views"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d" d:DesignWidth="200" d:DesignHeight="400"
+             x:Class="TodoList.App.Views.DeleteItemView">
+    <Design.DataContext>
+        <vm:DeleteItemViewModel/>
+    </Design.DataContext>
+    <DockPanel>
+        <Button DockPanel.Dock="Bottom" HorizontalAlignment="Stretch" HorizontalContentAlignment="Center" Command="{Binding DeleteItems}">Delete items</Button>
+        <ItemsControl Items="{Binding Items}">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <CheckBox Margin="4"
+                              Content="{Binding Description}" 
+                              Command="{Binding  DataContext.AddToSelectedItems, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type v:DeleteItemView}}}" CommandParameter="{Binding}"/>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </DockPanel>
+</UserControl>
